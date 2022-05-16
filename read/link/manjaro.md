@@ -10,3 +10,8 @@ parent: 連結
 
 * Manjaro / [Download](https://manjaro.org/download/)
 * GitLab / [Manjaro](https://gitlab.manjaro.org/explore/groups)
+
+
+## 相關筆記
+
+* [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
