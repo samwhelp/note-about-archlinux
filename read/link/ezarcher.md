@@ -1,12 +1,12 @@
 ---
-title: Ezarch
+title: Ezarcher
 nav_order: 9021
 has_children: false
 parent: 連結
 ---
 
 
-# Ezarch
+# Ezarcher
 
 ## eznix
 
