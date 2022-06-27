@@ -360,8 +360,8 @@ fcitx_config_install () {
 }
 
 fcitx_config_install_im_config () {
-	fcitx_config_install_im_config_by_command
-	#fcitx_config_install_im_config_pam_environment
+	#fcitx_config_install_im_config_by_command
+	fcitx_config_install_im_config_pam_environment
 }
 
 fcitx_config_install_im_config_by_command () {
