@@ -1,10 +1,20 @@
 
 
-## Download
+## download
 
 git
 wget
 curl
 
 
+## cursor-theme
+
+##
+## https://archlinux.org/packages/?q=breeze
+## https://archlinux.org/packages/community/any/capitaine-cursors/
+## https://aur.archlinux.org/packages/xcursor-breeze
+##
+
+#xcursor-breeze
+#capitaine-cursors
 
