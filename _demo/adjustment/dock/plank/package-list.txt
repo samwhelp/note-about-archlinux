@@ -1,0 +1,10 @@
+plank
+
+
+pcmanfm-qt
+mousepad
+firefox
+#sakura
+thunar
+xfce4-terminal
+
