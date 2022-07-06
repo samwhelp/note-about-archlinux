@@ -33,7 +33,7 @@ parent: Build ISO
 
 ### 安裝 archlinux
 
-先安裝一個「Arch Linux」系統。
+先安裝一個「Arch Linux」系統，請參考另一篇「[製作 Archiso 的前置作業 ](https://samwhelp.github.io/note-about-archlinux/read/build-iso/prepare.html)」的說明。
 
 
 ### 安裝 archiso
