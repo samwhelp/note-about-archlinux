@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo 'demo-hello: hi!'
+
+cat /usr/share/demo-hello/content.txt

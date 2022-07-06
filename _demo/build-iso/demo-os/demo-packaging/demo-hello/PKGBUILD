@@ -1,0 +1,35 @@
+pkgname=demo-hello
+pkgver=0.1
+pkgrel=1
+pkgdesc="Demo Hello Packaging"
+url="https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/build-iso/demo-os/demo-packaging/demo-hello"
+arch=('any')
+license=('MIT')
+makedepends=()
+depends=()
+conflicts=()
+provides=("${pkgname}")
+options=(!strip !emptydirs)
+
+prepare () {
+
+	echo "## prepare"
+	
+	#echo "pwd: $(pwd)"
+	#echo "\$srcdir: ${srcdir}"
+	#echo "\$pkgdir: ${pkgdir}"
+	#return 0
+
+	cp -af ../asset/. "${srcdir}"
+	#cp -afv ../asset/. "${srcdir}"
+}
+
+
+package () {
+
+	echo "## package"
+
+	cp -af "${srcdir}/overlay/". "${pkgdir}"
+	#cp -afv "${srcdir}/overlay/". "${pkgdir}"
+
+}
