@@ -23,15 +23,15 @@ parent: Build ISO
 * [makepkg](https://wiki.archlinux.org/title/makepkg)
 * [pacman](https://wiki.archlinux.org/title/pacman)
 * [Arch package guidelines](https://wiki.archlinux.org/title/Arch_package_guidelines)
-
+* [Arch User Repository](https://wiki.archlinux.org/title/Arch_User_Repository)
 
 
 ## Howto
 
-* [安裝 base-devel](安裝-base-devel)
-* [準備內容檔案](準備內容檔案)
-* [編寫 PKGBUILD](編寫-pkgbuild)
-* [製作 Package](製作-package)
+* [安裝 base-devel](#安裝-base-devel)
+* [準備內容檔案](#準備內容檔案)
+* [編寫 PKGBUILD](#編寫-pkgbuild)
+* [製作 Package](#製作-package)
 
 
 ### 安裝 base-devel
