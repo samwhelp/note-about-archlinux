@@ -29,3 +29,4 @@
 * [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
 * [archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package)
+* [asamos 開發筆記](https://samwhelp.github.io/note-about-asamos/) / [asamarch-documentation](https://samwhelp.github.io/asamarch-documentation/)
