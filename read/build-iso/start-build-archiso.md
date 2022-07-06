@@ -9,6 +9,13 @@ parent: Build ISO
 # 如何製作 Archiso
 
 
+## 範例
+
+| 範例 |
+| --- |
+| [demo-start-build-archiso](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/build-iso/demo-start/demo-start-build-archiso) |
+
+
 ## Arch Wiki
 
 * [Archiso](https://wiki.archlinux.org/title/archiso) ([中文](https://wiki.archlinux.org/title/Archiso_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)))
