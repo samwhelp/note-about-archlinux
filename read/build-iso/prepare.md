@@ -54,5 +54,45 @@ parent: Build ISO
 
 而且這些發行版，也是目前討論的議題「build archiso」很好的參考資料來源。
 
+| 發行版 | More |
+| --- | --- |
+| [Archcraft](https://archcraft.io/) | [More](#archcraft) |
+| [Alcilinux](https://alci.online/github/) | [More](#alcilinux) |
+| [Arcolinux](https://arcolinux.com/) | [More](#arcolinux) |
+| [Ezarcher](https://osdn.net/projects/ezarch/releases/) | [More](#ezarcher) |
+| [Endeavouros](https://endeavouros.com/) | [More](#endeavouros) |
+| [XeroLinux](https://xerolinux.xyz/) | [More](#xerolinux) |
+| [GarudaLinux](https://garudalinux.org/) | [More](#garudalinux) |
+| [Axyl-os](https://axyl-os.github.io/) | [More](#axyl-os) |
+| [Xelphlinux](https://xelphlinux.com/) | [More](#xelphlinux) |
+
+
+
+## Archcraft
+
+
+## Alcilinux
+
+
+## Arcolinux
+
+
+## Ezarcher
+
+
+## Endeavouros
+
+
+## XeroLinux
+
+
+## GarudaLinux
+
+
+## Axyl-os
+
+
+## Xelphlinux
+
 
 
