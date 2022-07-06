@@ -20,7 +20,7 @@ parent: Build ISO
 
 首先先將「隨身碟-1」，製作成「[ventoy 隨身碟](https://www.ventoy.net/en/index.html)」。
 
-若您原本就有「Linux」環境，可以參考「[我之前的筆記](https://samwhelp.github.io/note-about-ventoy/read/start.html)」來製作。
+若您原本就有「Linux」環境，可以參考「[我之前的筆記](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_ventoy.html)」來製作。
 
 若是其他的環境，則請使用「[ventoy](https://www.google.com/search?q=ventoy)」當作關鍵字搜尋，應該可以找到相關的參考文章。
 
