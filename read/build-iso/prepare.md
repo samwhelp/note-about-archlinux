@@ -26,7 +26,7 @@ parent: Build ISO
 
 這個「ventoy 隨身碟」的功用，
 
-一開始，我們可以先下載下面所列的一些基於「Arch Linux」，放置到這個「ventoy 隨身碟」，
+一開始，我們可以先下載下面所列的一些基於「Arch Linux」的「發行版」，放置到這個「ventoy 隨身碟」，
 
 使用這個「ventoy 隨身碟」開機，
 
@@ -41,3 +41,18 @@ parent: Build ISO
 所以一開始「隨身碟-2」可以先分成多個「分割區」，這樣就可以分別安裝系統到不同的分割區。
 
 透過「grub」可以多重開機。
+
+
+
+## 基於「Arch Linux」的「發行版」
+
+會推薦下面這些基於「Arch Linux」的「發行版」先來安裝一個「Arch Linux」，
+
+是因為這些發行版有提供「圖形使用者介面安裝程式([calamares](https://calamares.io/))」，
+
+可以先快速的安裝好一個「Arch Linux」讓您可以開始接下來的步驟。
+
+而且這些發行版，也是目前討論的議題「build archiso」很好的參考資料來源。
+
+
+
