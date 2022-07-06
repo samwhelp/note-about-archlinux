@@ -109,6 +109,6 @@ run_archiso -i out/*.iso
 run_archiso -i tmp/out/*.iso
 ```
 
-> 也可以透過「[ventoy](https://www.ventoy.net/en/index.html)」來測試最終產出的「iso」。
+> 也可以透過「[ventoy](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_ventoy.html)」來測試最終產出的「iso」。
 
 
