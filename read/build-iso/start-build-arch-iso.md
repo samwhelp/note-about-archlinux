@@ -23,7 +23,7 @@ parent: Build ISO
 
 ## Howto
 
-* [安裝 archlinux](#安裝-arch)
+* [安裝 archlinux](#安裝-archlinux)
 * [安裝 archiso](#安裝-archiso)
 * [複製 profile](#複製-profile)
 * [製作 iso](#製作-iso)
