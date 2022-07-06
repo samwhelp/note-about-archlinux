@@ -12,4 +12,4 @@ has_children: true
 
 | 主題 |
 | [製作 Archiso 的前置作業](https://samwhelp.github.io/note-about-archlinux/read/build-iso/prepare.html) |
-| [如何製作 Archiso](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-build-archiso.html) |
+| [入門如何製作 Archiso](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-build-archiso.html) |

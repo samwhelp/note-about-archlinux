@@ -1,12 +1,12 @@
 ---
-title: 如何製作 Archiso
+title: 入門如何製作 Archiso
 nav_order: 1020
 has_children: false
 parent: Build ISO
 ---
 
 
-# 如何製作 Archiso
+# 入門如何製作 Archiso
 
 
 ## 範例
