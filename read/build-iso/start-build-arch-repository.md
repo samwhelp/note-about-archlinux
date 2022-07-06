@@ -18,6 +18,8 @@ parent: Build ISO
 
 ## Arch Wiki
 
+* pacman / Tips and tricks / [Custom local repository](https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Custom_local_repository)
+
 
 ## Howto
 
