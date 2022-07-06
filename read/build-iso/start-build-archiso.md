@@ -1,7 +1,7 @@
 ---
 title: 如何製作 Archiso
 nav_order: 1020
-has_children: true
+has_children: false
 parent: Build ISO
 ---
 
