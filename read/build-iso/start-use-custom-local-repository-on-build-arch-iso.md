@@ -44,7 +44,7 @@ parent: Build ISO
 
 然而這篇是要在製作 Arch ISO 時，採用「Arch Custom Local Repository」，
 
-所以要編輯「[profile/pacman.conf](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/build-iso/demo-os/demo-iso-profile/demo-use-custom-local-repository/profile/pacman.conf#L106)」，加入如下的內容
+所以要編輯「[profile/pacman.conf](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/build-iso/demo-os/demo-iso-profile/demo-use-custom-local-repository/profile/pacman.conf#L110)」，加入如下的內容
 
 ``` ini
 [demo-os]
