@@ -58,6 +58,16 @@ net_launchpad_plank_config_install_dock1_settings () {
 	gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ icon-size 36
 
 
+
+
+	echo "gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ zoom-enabled true"
+	gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ zoom-enabled true
+
+	echo "gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ icon-size 36"
+	gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ zoom-percent 150
+
+
+
 	# gsettings get net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ dock-items
 
 	echo 'gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ dock-items "'"['desktop.dockitem', 'pcmanfm-qt.dockitem', 'org.xfce.mousepad.dockitem', 'firefox.dockitem', 'sakura.dockitem']"'"'
@@ -67,7 +77,7 @@ net_launchpad_plank_config_install_dock1_settings () {
 	##
 	## /usr/share/applications/pcmanfm-qt.desktop
 	## /usr/share/applications/org.xfce.mousepad.desktop
-	## /usr/share/applications/firefox.desktop 
+	## /usr/share/applications/firefox.desktop
 	## /usr/share/applications/sakura.desktop
 	##
 
