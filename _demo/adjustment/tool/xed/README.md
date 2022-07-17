@@ -38,7 +38,7 @@ org.x.editor.plugins.filebrowser filter-pattern ''
 org.x.editor.plugins.filebrowser.on-load enable-remote false
 org.x.editor.plugins.filebrowser.on-load root 'file:///'
 org.x.editor.plugins.filebrowser.on-load tree-view true
-org.x.editor.plugins.filebrowser.on-load virtual-root 'file:///run/media/sam/d44cd291-6020-439a-81db-80b4035a5deb/data/github-work/note-about-archlinux/note-about-archlinux/_demo/adjustment/tool/xed'
+org.x.editor.plugins.filebrowser.on-load virtual-root 'file:///home/sam'
 org.x.editor.plugins.filebrowser open-at-first-doc true
 org.x.editor.plugins.filebrowser terminal-command 'x-terminal-emulator'
 org.x.editor.plugins.spell autocheck-type 'document'
