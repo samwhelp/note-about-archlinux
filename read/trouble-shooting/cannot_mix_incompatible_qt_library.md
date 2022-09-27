@@ -1,12 +1,12 @@
 ---
-title: qt5-styleplugins
+title: Cannot mix incompatible Qt library
 nav_order: 8081
 has_children: false
 parent: 故障排除
 ---
 
 
-# qt5-styleplugins
+# Cannot mix incompatible Qt library
 
 ## 情況
 
