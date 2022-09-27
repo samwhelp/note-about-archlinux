@@ -40,9 +40,9 @@ sudo pamac build qt5-styleplugins
 ## Link
 
 
-* Search: [archlinux Cannot mix incompatible Qt library (5.15.5) with this library (5.15.6)](https://www.google.com/search?q=archlinux+Cannot+mix+incompatible+Qt+library+%285.15.5%29+with+this+library+%285.15.6%29)
-* https://bbs.archlinux.org/viewtopic.php?id=274830
-* https://bbs.archlinux.org/viewtopic.php?id=274702
+* Search: 「[archlinux Cannot mix incompatible Qt library (5.15.5) with this library (5.15.6)](https://www.google.com/search?q=archlinux+Cannot+mix+incompatible+Qt+library+%285.15.5%29+with+this+library+%285.15.6%29)」
+* [https://bbs.archlinux.org/viewtopic.php?id=274830](https://bbs.archlinux.org/viewtopic.php?id=274830)
+* [https://bbs.archlinux.org/viewtopic.php?id=274702](https://bbs.archlinux.org/viewtopic.php?id=274702)
 
 ``` sh
 pacman -Qm | grep ^qt5
