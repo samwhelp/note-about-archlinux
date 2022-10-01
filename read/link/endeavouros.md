@@ -1,6 +1,6 @@
 ---
 title: EndeavourOS
-nav_order: 9023
+nav_order: 9024
 has_children: false
 parent: 連結
 ---
