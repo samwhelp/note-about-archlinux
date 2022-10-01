@@ -15,3 +15,4 @@ parent: 連結
 ## 相關筆記
 
 * [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
+* [mabox 探索筆記](https://samwhelp.github.io/note-about-mabox/)
