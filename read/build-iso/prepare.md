@@ -85,6 +85,12 @@ parent: Build ISO
 
 ## XeroLinux
 
+| Link | GitHub |
+| --- | --- |
+| [Xero Linux](https://xerolinux.xyz/) | [GitHub](https://github.com/XeroLinux) |
+| [Xero Linux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) | [GitHub](https://github.com/samwhelp/note-about-xerolinux) |
+| [xerolinux-adjustment](https://samwhelp.github.io/xerolinux-adjustment/) | [GitHub](https://github.com/samwhelp/xerolinux-adjustment) |
+
 
 ## GarudaLinux
 
