@@ -88,8 +88,9 @@ parent: Build ISO
 
 | Link | GitHub |
 | --- | --- |
-| [ezarcher-adjustment](https://samwhelp.github.io/ezarcher-adjustment/) | [GitHub](https://github.com/samwhelp/ezarcher-adjustment) |
+| [Ezarcher Adjustment](https://samwhelp.github.io/ezarcher-adjustment/) | [GitHub](https://github.com/samwhelp/ezarcher-adjustment) |
 | [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
+
 
 
 ## Endeavouros
@@ -100,8 +101,8 @@ parent: Build ISO
 | Link | GitHub |
 | --- | --- |
 | [Xero Linux](https://xerolinux.xyz/) | [GitHub](https://github.com/XeroLinux) |
+| [Xerolinux Adjustment](https://samwhelp.github.io/xerolinux-adjustment/) | [GitHub](https://github.com/samwhelp/xerolinux-adjustment) |
 | [Xero Linux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) | [GitHub](https://github.com/samwhelp/note-about-xerolinux) |
-| [xerolinux-adjustment](https://samwhelp.github.io/xerolinux-adjustment/) | [GitHub](https://github.com/samwhelp/xerolinux-adjustment) |
 
 
 ## GarudaLinux
