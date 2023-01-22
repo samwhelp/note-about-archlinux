@@ -13,7 +13,7 @@ parent: Build ISO
 
 | 範例 |
 | --- |
-| [demo-start-build-archiso](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/build-iso/demo-os/demo-iso-profile/demo-start-build-archiso) |
+| [demo-start-build-arch-iso](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/build-iso/demo-os/demo-iso-profile/demo-start-build-arch-iso) |
 
 
 ## Arch Wiki
