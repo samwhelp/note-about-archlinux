@@ -27,11 +27,11 @@ has_children: true
 
 #### Ezarcher-Adjustment / ISO Build System
 
-| ISO Build System |
-| --- |
-| [ezarcher-adjustment-iso-profile](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile) |
-| [ezarcher-adjustment-packaging](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-packaging) |
-| [ezarcher-adjustment-repository](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-repository) |
+| ISO Build System | 使用說明 |
+| --- | --- |
+| [ezarcher-adjustment-packaging](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-packaging) | [使用說明](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-package.html) |
+| [ezarcher-adjustment-repository](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-repository) | [使用說明](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/update-package-repository-db.html) |
+| [ezarcher-adjustment-iso-profile](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile) | [使用說明](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-iso.html) |
 
 
 ### Ezarcher-Adjustment / ISO Build Template
@@ -41,3 +41,4 @@ has_children: true
 | [orginal](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile/recipe/template/20221030/orginal/Templates) |
 | [adjust](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile/recipe/template/20221030/adjust/Templates) |
 | [derive](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile/recipe/template/20221030/derive/Templates) |
+| [alternative](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile/recipe/template/20221030/alternative/Templates) |
