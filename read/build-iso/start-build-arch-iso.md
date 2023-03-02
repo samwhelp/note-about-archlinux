@@ -35,6 +35,9 @@ parent: Build ISO
 
 先安裝一個「Arch Linux」系統，請參考另一篇「[製作 Archiso 的前置作業 ](https://samwhelp.github.io/note-about-archlinux/read/build-iso/prepare.html)」的說明。
 
+> 或是也可以透過「Docker」的環境來製作，
+
+> 可以參考「[archiso-builder](https://github.com/nlhomme/archiso-builder)」或是「GitHub / elementary / [os](https://github.com/elementary/os)」
 
 ### 安裝 archiso
 
