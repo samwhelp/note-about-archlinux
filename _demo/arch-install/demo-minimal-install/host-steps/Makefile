@@ -34,6 +34,8 @@ help:
 	@echo
 	@echo '	$$ make chroot'
 	@echo
+	@echo '	$$ make chroot-install'
+	@echo
 	@echo '	$$ make umount'
 	@echo
 
@@ -69,6 +71,10 @@ chroot:
 	@$(THE_PLAN_DIR_PATH)/chroot.sh
 .PHONY: chroot
 
+
+chroot-install:
+	@$(THE_PLAN_DIR_PATH)/chroot-install.sh
+.PHONY: chroot-install
 
 umount:
 	@$(THE_PLAN_DIR_PATH)/umount.sh
