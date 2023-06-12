@@ -24,7 +24,7 @@ help:
 	@echo
 	@echo '	$$ make prepare'
 	@echo
-	@echo '	$$ make partition-create'
+	@echo '	$$ make partition'
 	@echo
 	@echo '	$$ make install'
 	@echo
@@ -37,9 +37,9 @@ prepare:
 .PHONY: prepare
 
 
-partition-create:
-	@$(THE_PLAN_DIR_PATH)/partition-create.sh
-.PHONY: partition-create
+partition:
+	@$(THE_PLAN_DIR_PATH)/partition.sh
+.PHONY: partition
 
 
 
