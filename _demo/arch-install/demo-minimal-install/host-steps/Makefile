@@ -26,7 +26,7 @@ help:
 	@echo
 	@echo '	$$ make partition'
 	@echo
-	@echo '	$$ make install'
+	@echo '	$$ make mount'
 	@echo
 
 .PHONY: help
@@ -41,6 +41,10 @@ partition:
 	@$(THE_PLAN_DIR_PATH)/partition.sh
 .PHONY: partition
 
+
+mount:
+	@$(THE_PLAN_DIR_PATH)/mount.sh
+.PHONY: mount
 
 
 

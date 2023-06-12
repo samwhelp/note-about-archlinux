@@ -49,6 +49,8 @@ mod_prepare () {
 
 	util_error_echo
 	util_error_echo "sudo pacman -Sy --needed arch-install-scripts parted"
+	util_error_echo
+
 	sudo pacman -Sy --needed arch-install-scripts parted
 
 }
