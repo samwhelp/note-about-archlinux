@@ -54,6 +54,13 @@ system:
 .PHONY: system
 
 
+fstab:
+	@$(THE_PLAN_DIR_PATH)/fstab.sh
+.PHONY: fstab
+
+
+
+
 ##
 ## ## include
 ##
