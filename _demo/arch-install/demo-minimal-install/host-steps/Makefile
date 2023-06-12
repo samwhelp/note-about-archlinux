@@ -28,6 +28,8 @@ help:
 	@echo
 	@echo '	$$ make mount'
 	@echo
+	@echo '	$$ make system'
+	@echo
 
 .PHONY: help
 
@@ -46,6 +48,10 @@ mount:
 	@$(THE_PLAN_DIR_PATH)/mount.sh
 .PHONY: mount
 
+
+system:
+	@$(THE_PLAN_DIR_PATH)/system.sh
+.PHONY: system
 
 
 ##
