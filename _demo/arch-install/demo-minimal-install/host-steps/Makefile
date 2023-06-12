@@ -32,6 +32,8 @@ help:
 	@echo
 	@echo '	$$ make fstab'
 	@echo
+	@echo '	$$ make chroot'
+	@echo
 	@echo '	$$ make umount'
 	@echo
 
@@ -61,6 +63,11 @@ system:
 fstab:
 	@$(THE_PLAN_DIR_PATH)/fstab.sh
 .PHONY: fstab
+
+
+chroot:
+	@$(THE_PLAN_DIR_PATH)/chroot.sh
+.PHONY: chroot
 
 
 umount:
