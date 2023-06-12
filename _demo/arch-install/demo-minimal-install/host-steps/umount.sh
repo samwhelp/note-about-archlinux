@@ -32,28 +32,25 @@ source "${THE_UTIL_FILE_PATH}"
 
 
 ################################################################################
-### Head: Model / partition_create
+### Head: Model / partition_umount
 ##
 
-mod_partition_create () {
+mod_partition_umount () {
 
-	sudo parted --script "${THE_TARGET_DEVICE}" -- \
-		mktable gpt \
-		mkpart primary 1M 2M \
-		mkpart primary 2M '-1' \
-		set 1 bios_grub on \
-		print
+	##
+	## sudo umount /mnt
+	##
 
+	util_error_echo
+	util_error_echo "sudo umount ${THE_TARGET_ROOT_DIR_PATH}"
+	util_error_echo
 
-	sudo mkfs.ext4 -F "${THE_TARGET_ROOT_PARTITION}"
-
-
-	sudo parted "${THE_TARGET_DEVICE}" print
+	sudo umount "${THE_TARGET_ROOT_DIR_PATH}"
 
 }
 
 ##
-### Tail: Model / partition_create
+### Tail: Model / partition_umount
 ################################################################################
 
 
@@ -63,7 +60,7 @@ mod_partition_create () {
 
 __main__ () {
 
-	mod_partition_create
+	mod_partition_umount
 
 }
 

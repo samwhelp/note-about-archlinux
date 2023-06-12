@@ -30,6 +30,10 @@ help:
 	@echo
 	@echo '	$$ make system'
 	@echo
+	@echo '	$$ make fstab'
+	@echo
+	@echo '	$$ make umount'
+	@echo
 
 .PHONY: help
 
@@ -59,6 +63,9 @@ fstab:
 .PHONY: fstab
 
 
+umount:
+	@$(THE_PLAN_DIR_PATH)/umount.sh
+.PHONY: umount
 
 
 ##
