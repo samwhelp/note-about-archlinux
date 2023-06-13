@@ -1,11 +1,9 @@
 ---
 title: Download ISO
-nav_order: 7010
-has_children: false
-parent: 下載
-grand_parent: 入門
+nav_order: 1000
+has_children: true
+parent: ISO
 ---
-
 
 
 # Download ISO
