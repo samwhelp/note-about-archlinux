@@ -99,7 +99,7 @@ sudo mkarchiso -w tmp/work -o tmp/out -v profile
 sudo pacman -Sy --needed qemu-desktop
 ```
 
-### 測試 iso
+### 測試 ISO
 
 執行下面指令，來測試最終產出的「iso」，
 
