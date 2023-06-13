@@ -40,13 +40,13 @@ sudo mkfs.ext4 "/dev/sdc2"
 
 > show table info
 
-run
+執行
 
 ``` sh
 sudo parted "/dev/sdc" print
 ```
 
-show
+顯示
 
 ```
 Model: Kingston DataTraveler 3.0 (scsi)
@@ -63,7 +63,7 @@ Number  Start   End     Size    File system  Name     Flags
 
 ## Mount Root Partition
 
-run
+執行下面指令，掛載要安裝的「Root 分割區 (/dev/sdc2)」，掛載到「/mnt」這個路徑。
 
 ``` sh
 sudo mount /dev/sdc2 /mnt
@@ -72,7 +72,7 @@ sudo mount /dev/sdc2 /mnt
 
 ## Install Base System
 
-run
+執行下面指令，安裝基本系統
 
 ``` sh
 sudo pacstrap /mnt base linux
@@ -81,7 +81,7 @@ sudo pacstrap /mnt base linux
 
 ## Create fstab
 
-run
+執行下面指令，產生「fstab」。
 
 ``` sh
 sudo sh -c "genfstab -U /mnt >> /mnt/etc/fstab"
@@ -90,8 +90,10 @@ sudo sh -c "genfstab -U /mnt >> /mnt/etc/fstab"
 
 ## chroot
 
-run
+執行下面指令，進到「chroot」的環境
 
 ``` sh
 sudo arch-chroot /mnt
 ```
+
+> 接下來進到「chroot」的環境後的「[操作步驟](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-install-for-bios-mininal/chroot-steps.html)」。
