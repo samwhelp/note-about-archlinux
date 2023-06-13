@@ -8,6 +8,24 @@ parent: 安裝
 
 # Demo Install For Bios Mininal
 
+
+## 前提
+
+此範例有兩個「USB隨身碟」，
+
+關於「隨身碟1 (/dev/sdb)」已經安裝了「Archlinux」，會先透過「隨身碟1 (/dev/sdb)」開機。
+
+然後要將「新的Archlinux」安裝在「隨身碟2 (/dev/sdc)」。
+
+
+## 需要Package
+
+在「隨身碟1 (/dev/sdb)」需要有安裝以下「Package」
+
+* [arch-install-scripts](https://archlinux.org/packages/extra/any/arch-install-scripts/)
+* [parted](https://archlinux.org/packages/extra/x86_64/parted/)
+
+
 ## 範例專案
 
 * [demo-install-for-bios-mininal](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/arch-install/demo-install-for-bios-mininal)
