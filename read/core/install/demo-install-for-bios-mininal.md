@@ -18,12 +18,16 @@ parent: 安裝
 然後要將「新的Archlinux」安裝在「隨身碟2 (/dev/sdc)」。
 
 
-## 需要Package
+## 所需「Package」
 
 在「隨身碟1 (/dev/sdb)」需要有安裝以下「Package」
 
 * [arch-install-scripts](https://archlinux.org/packages/extra/any/arch-install-scripts/)
 * [parted](https://archlinux.org/packages/extra/x86_64/parted/)
+
+``` sh
+sudo pacman -Sy --needed arch-install-scripts parted
+```
 
 
 ## 範例專案
