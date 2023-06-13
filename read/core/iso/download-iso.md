@@ -36,4 +36,4 @@ wget -c -i iso-download.txt
 
 ## Boot ISO
 
-> [Boot ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso.html)
+> 接下來可以選擇不同的「[Boot ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso.html)」方式。
