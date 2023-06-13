@@ -17,9 +17,7 @@ grand_parent: 安裝
 
 ## Create Partition
 
-> create partition
-
-run
+執行下面指令，將「隨身碟2 (/dev/sdc)」做簡易的磁碟分割。
 
 ``` sh
 sudo parted --script "/dev/sdc" -- \
@@ -30,17 +28,27 @@ sudo parted --script "/dev/sdc" -- \
 	print
 ```
 
-> format partition
+顯示
 
-run
+```
+Model: Kingston DataTraveler 3.0 (scsi)
+Disk /dev/sdc: 124GB
+Sector size (logical/physical): 512B/512B
+Partition Table: gpt
+Disk Flags:
+
+Number  Start   End     Size    File system  Name     Flags
+ 1      1049kB  2097kB  1049kB               primary  bios_grub
+ 2      2097kB  124GB   124GB                primary
+```
+
+執行下面指令，將「/dev/sdc2」這個「分割區」，格式化成「ext4」。
 
 ``` sh
 sudo mkfs.ext4 "/dev/sdc2"
 ```
 
-> show table info
-
-執行
+執行下面指令，再次觀看「/dev/sdc」的分割資訊
 
 ``` sh
 sudo parted "/dev/sdc" print
@@ -72,7 +80,7 @@ sudo mount /dev/sdc2 /mnt
 
 ## Install Base System
 
-執行下面指令，安裝基本系統
+執行下面指令，安裝基本系統到「/mnt」這個路徑。
 
 ``` sh
 sudo pacstrap /mnt base linux

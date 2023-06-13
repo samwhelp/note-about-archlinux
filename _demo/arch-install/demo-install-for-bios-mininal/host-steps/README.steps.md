@@ -23,6 +23,20 @@ sudo parted --script "/dev/sdc" -- \
 	print
 ```
 
+show
+
+```
+Model: Kingston DataTraveler 3.0 (scsi)
+Disk /dev/sdc: 124GB
+Sector size (logical/physical): 512B/512B
+Partition Table: gpt
+Disk Flags:
+
+Number  Start   End     Size    File system  Name     Flags
+ 1      1049kB  2097kB  1049kB               primary  bios_grub
+ 2      2097kB  124GB   124GB                primary
+```
+
 > format partition
 
 run
