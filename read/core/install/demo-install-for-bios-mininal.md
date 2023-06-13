@@ -59,6 +59,7 @@ sudo pacman -Sy --needed arch-install-scripts parted
 
 ## Arch Wiki
 
+* [Installation guide](https://wiki.archlinux.org/title/installation_guide)
 * [chroot](https://wiki.archlinux.org/title/chroot)
 * [Pacstrap](https://wiki.archlinux.org/title/Pacstrap)
 * [Parted](https://wiki.archlinux.org/title/Parted)
