@@ -9,10 +9,10 @@ grand_parent: 安裝
 
 # Host Steps
 
-* [Create Partition](create-partition)
-* [Mount Root Partition](mount-root-partition)
-* [Install Base System](install-base-system)
-* [Create fstab](create-fstab)
+* [Create Partition](#create-partition)
+* [Mount Root Partition](#mount-root-partition)
+* [Install Base System](#install-base-system)
+* [Create fstab](#create-fstab)
 
 
 ## Create Partition

@@ -9,8 +9,8 @@ grand_parent: 安裝
 
 # Chroot Steps
 
-* [Install Grub](install-grub)
-* [Change Root User Password](change-root-user-password)
+* [Install Grub](#install-grub)
+* [Change Root User Password](#change-root-user-password)
 
 
 ## Install Grub
