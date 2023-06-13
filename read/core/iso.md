@@ -12,6 +12,8 @@ has_children: true
 
 | 主題 |
 | --- |
-| [Build ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso.html) |
+| [Download ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/download-iso.html)
 | [Boot ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso.html) |
+| [Build ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso.html) |
+
 
