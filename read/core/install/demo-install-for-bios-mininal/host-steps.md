@@ -79,6 +79,28 @@ Number  Start   End     Size    File system  Name     Flags
  2      2097kB  124GB   124GB   ext4         primary
 ```
 
+也可以執行下面指令，連同「Free Space」的部份顯示出來。
+
+``` sh
+sudo parted "/dev/sdc" print free
+```
+
+顯示
+
+```
+Model: Kingston DataTraveler 3.0 (scsi)
+Disk /dev/sdc: 124GB
+Sector size (logical/physical): 512B/512B
+Partition Table: gpt
+Disk Flags:
+
+Number  Start   End     Size    File system  Name     Flags
+        17.4kB  1049kB  1031kB  Free Space
+ 1      1049kB  2097kB  1049kB               primary  bios_grub
+ 2      2097kB  124GB   124GB   ext4         primary
+        124GB   124GB   1032kB  Free Space
+```
+
 
 ## Mount Root Partition
 
