@@ -42,6 +42,15 @@ mod_partition_umount () {
 	##
 
 	util_error_echo
+	util_error_echo "sudo umount ${THE_TARGET_ROOT_PARTITION}"
+	util_error_echo
+
+	sudo umount "${THE_TARGET_ROOT_PARTITION}"
+	
+	return 0
+
+
+	util_error_echo
 	util_error_echo "sudo umount ${THE_TARGET_ROOT_DIR_PATH}"
 	util_error_echo
 
