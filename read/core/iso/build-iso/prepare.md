@@ -3,6 +3,7 @@ title: 製作 Arch ISO 的前置作業
 nav_order: 1010
 has_children: false
 parent: Build ISO
+grand_parent: ISO
 ---
 
 

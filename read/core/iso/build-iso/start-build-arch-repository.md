@@ -3,6 +3,7 @@ title: 入門如何製作 Arch Repository
 nav_order: 1040
 has_children: false
 parent: Build ISO
+grand_parent: ISO
 ---
 
 

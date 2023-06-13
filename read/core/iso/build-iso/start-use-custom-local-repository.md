@@ -3,6 +3,7 @@ title: 入門如何設定採用 Arch Custom Local Repository
 nav_order: 1050
 has_children: false
 parent: Build ISO
+grand_parent: ISO
 ---
 
 

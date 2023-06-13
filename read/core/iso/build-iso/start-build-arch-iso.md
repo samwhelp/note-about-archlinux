@@ -3,6 +3,7 @@ title: 入門如何製作 Arch ISO
 nav_order: 1020
 has_children: false
 parent: Build ISO
+grand_parent: ISO
 ---
 
 

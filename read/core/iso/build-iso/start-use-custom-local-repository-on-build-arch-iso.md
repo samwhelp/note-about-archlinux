@@ -3,6 +3,7 @@ title: 在製作 Arch ISO 時，如何設定採用 Arch Custom Local Repository
 nav_order: 1060
 has_children: false
 parent: Build ISO
+grand_parent: ISO
 ---
 
 
