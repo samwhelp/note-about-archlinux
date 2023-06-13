@@ -23,6 +23,17 @@ sudo parted --script "/dev/sdc" -- \
 	print
 ```
 
+or run
+
+``` sh
+sudo parted --script -- "/dev/sdc" \
+	mktable gpt \
+	mkpart primary 1M 2M \
+	mkpart primary 2M '100%' \
+	set 1 bios_grub on \
+	print
+```
+
 show
 
 ```

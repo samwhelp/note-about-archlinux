@@ -20,10 +20,21 @@ grand_parent: 安裝
 執行下面指令，將「隨身碟2 (/dev/sdc)」做簡易的磁碟分割。
 
 ``` sh
-sudo parted --script "/dev/sdc" -- \
+sudo parted --script -- "/dev/sdc" \
 	mktable gpt \
 	mkpart primary 1M 2M \
 	mkpart primary 2M '-1' \
+	set 1 bios_grub on \
+	print
+```
+
+或是執行下面的指令
+
+``` sh
+sudo parted --script -- "/dev/sdc" \
+	mktable gpt \
+	mkpart primary 1M 2M \
+	mkpart primary 2M '100%' \
 	set 1 bios_grub on \
 	print
 ```
