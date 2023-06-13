@@ -32,3 +32,8 @@ https://mirror.archlinux.tw/ArchLinux/iso/latest/archlinux-2023.06.01-x86_64.iso
 ``` sh
 wget -c -i iso-download.txt
 ```
+
+
+## Boot ISO
+
+> [Boot ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso.html)

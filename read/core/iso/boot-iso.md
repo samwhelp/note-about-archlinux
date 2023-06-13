@@ -1,6 +1,6 @@
 ---
 title: Boot ISO
-nav_order: 1020
+nav_order: 1010
 has_children: true
 parent: ISO
 ---
