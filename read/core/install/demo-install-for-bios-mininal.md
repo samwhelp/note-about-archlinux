@@ -13,7 +13,7 @@ parent: 安裝
 
 此範例有兩個「USB隨身碟」，
 
-關於「隨身碟1 (/dev/sdb)」已經安裝了「Archlinux」，會先透過「隨身碟1 (/dev/sdb)」開機。
+關於「隨身碟1 (/dev/sdb)」已經安裝了「Archlinux」，會先透過「隨身碟1 (/dev/sdb)」開機，並且已經連上網路了。
 
 然後要將「新的Archlinux」安裝在「隨身碟2 (/dev/sdc)」。
 
