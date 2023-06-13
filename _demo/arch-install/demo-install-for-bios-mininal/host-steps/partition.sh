@@ -37,7 +37,14 @@ source "${THE_UTIL_FILE_PATH}"
 
 mod_partition_create () {
 
-	sudo parted --script "${THE_TARGET_DEVICE}" -- \
+	mod_partition_create_001
+	#mod_partition_create_002
+
+}
+
+mod_partition_create_001 () {
+
+	sudo parted --script -- "${THE_TARGET_DEVICE}" \
 		mktable gpt \
 		mkpart primary 1M 2M \
 		mkpart primary 2M '-1' \
@@ -49,6 +56,36 @@ mod_partition_create () {
 
 
 	sudo parted "${THE_TARGET_DEVICE}" print
+
+	#sudo parted "${THE_TARGET_DEVICE}" print free
+
+	##
+	## sudo parted "/dev/sdc" print free
+	##
+
+}
+
+
+mod_partition_create_002 () {
+
+	sudo parted --script -- "${THE_TARGET_DEVICE}" \
+		mktable gpt \
+		mkpart primary 1M 2M \
+		mkpart primary 2M '100%' \
+		set 1 bios_grub on \
+		print
+
+
+	sudo mkfs.ext4 -F "${THE_TARGET_ROOT_PARTITION}"
+
+
+	sudo parted "${THE_TARGET_DEVICE}" print
+
+	#sudo parted "${THE_TARGET_DEVICE}" print free
+
+	##
+	## sudo parted "/dev/sdc" print free
+	##
 
 }
 
