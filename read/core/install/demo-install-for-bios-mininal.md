@@ -15,4 +15,8 @@ parent: 安裝
 
 ## 操作步驟
 
+| 中文說明 | 英文說明
+| --- | --- |
+| [Host Steps](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-install-for-bios-mininal/host-steps.html) | [Host Steps](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/arch-install/demo-install-for-bios-mininal/host-steps/README.steps.md) |
+| [Chroot Steps](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-install-for-bios-mininal/chroot-steps.html) | [Chroot Steps](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/arch-install/demo-install-for-bios-mininal/chroot-steps/README.steps.md) |
 

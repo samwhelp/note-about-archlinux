@@ -8,10 +8,10 @@ has_children: true
 # 安裝
 
 
-## 主題
+## 範例
 
-| 主題 |
+| 範例 |
 | --- |
-
+| [Demo Install For Bios Mininal](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-install-for-bios-mininal.html) |
 
 
