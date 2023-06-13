@@ -1,9 +1,9 @@
 ---
 title: Boot ISO By Ventoy
-nav_order: 7030
+nav_order: 1030
 has_children: false
-parent: 下載
-grand_parent: 入門
+parent: Boot ISO
+grand_parent: ISO
 ---
 
 
