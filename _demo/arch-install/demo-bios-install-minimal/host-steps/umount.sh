@@ -37,8 +37,16 @@ source "${THE_UTIL_FILE_PATH}"
 
 mod_partition_umount () {
 
+	mod_partition_umount_by_partition
+
+	##mod_partition_umount_by_mount_point
+
+}
+
+mod_partition_umount_by_partition () {
+
 	##
-	## sudo umount /mnt
+	## sudo umount /dev/sdc2
 	##
 
 	util_error_echo
@@ -49,6 +57,13 @@ mod_partition_umount () {
 	
 	return 0
 
+}
+
+mod_partition_umount_by_mount_point () {
+
+	##
+	## sudo umount /mnt
+	##
 
 	util_error_echo
 	util_error_echo "sudo umount ${THE_TARGET_ROOT_DIR_PATH}"
