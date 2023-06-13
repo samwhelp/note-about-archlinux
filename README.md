@@ -12,23 +12,33 @@
 
 ## 入門
 
-| ISO 檔案下載 |
+
+### Download ISO
+
+| Download ISO |
 | --- |
-| [Download ISO](https://samwhelp.github.io/note-about-archlinux/read/start/download/download_iso.html) |
-| [Boot ISO By USB](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_usb.html) |
-| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_ventoy.html) |
-| [Boot ISO By GRUB](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_grub.html) |
+| [Download ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/download-iso.html) |
 
 
+### Boot ISO
 
-| 製作 ISO |
+| Boot ISO |
 | --- |
-| [製作 Arch ISO 的前置作業](https://samwhelp.github.io/note-about-archlinux/read/build-iso/prepare.html) |
-| [入門如何製作 Arch ISO](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-build-arch-iso.html) |
-| [入門如何製作 Arch Package](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-build-arch-package.html) |
-| [入門如何製作 Arch Repository](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-build-arch-repository.html) |
-| [入門如何設定採用 Arch Custom Local Repository](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-use-custom-local-repository.html) |
-| [在製作 Arch ISO 時，如何設定採用 Arch Custom Local Repository ](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-use-custom-local-repository-on-build-arch-iso.html) |
+| [Boot ISO By USB](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-usb.html) |
+| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
+| [Boot ISO By GRUB](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-grub.html) |
+
+
+### Build ISO
+
+| Build ISO |
+| --- |
+| [製作 Arch ISO 的前置作業](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/prepare.html) |
+| [入門如何製作 Arch ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-build-arch-iso.html) |
+| [入門如何製作 Arch Package](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-build-arch-package.html) |
+| [入門如何製作 Arch Repository](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-build-arch-repository.html) |
+| [入門如何設定採用 Arch Custom Local Repository](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-use-custom-local-repository.html) |
+| [在製作 Arch ISO 時，如何設定採用 Arch Custom Local Repository ](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-use-custom-local-repository-on-build-arch-iso.html) |
 
 
 
