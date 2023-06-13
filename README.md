@@ -1,7 +1,7 @@
 
 # 首頁
 
-* [Arch Linux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) ([GitHub](https://github.com/samwhelp/note-about-archlinux))
+| [Arch Linux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 
 
 ## 主題
