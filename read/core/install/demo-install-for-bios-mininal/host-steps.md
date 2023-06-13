@@ -28,7 +28,7 @@ sudo parted --script -- "/dev/sdc" \
 	print
 ```
 
-或是執行下面的指令
+或是執行下面的指令 (上面「-1」改成「100%」，同等效用)
 
 ``` sh
 sudo parted --script -- "/dev/sdc" \
