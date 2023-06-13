@@ -47,8 +47,10 @@
 ## samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
-* [system-modeling](https://samwhelp.github.io/system-modeling/) / ([GitHub](https://github.com/samwhelp/system-modeling))
-* [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
-* [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
-* [archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package)
-* [asamos 開發筆記](https://samwhelp.github.io/note-about-asamos/) / [asamarch-documentation](https://samwhelp.github.io/asamarch-documentation/)
+* [System Modeling](https://samwhelp.github.io/system-modeling/) / ([GitHub](https://github.com/samwhelp/system-modeling))
+* [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) / ([GitHub](https://github.com/samwhelp/note-about-ezarcher))
+* [Nearbyos](https://samwhelp.github.io/nearbyos/) / ([GitHub](https://github.com/samwhelp/nearbyos))
+* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
+* [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
+* [Archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package)
+* [Asamos 開發筆記](https://samwhelp.github.io/note-about-asamos/) / [asamarch-documentation](https://samwhelp.github.io/asamarch-documentation/)
