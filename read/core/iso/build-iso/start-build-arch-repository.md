@@ -14,7 +14,7 @@ grand_parent: ISO
 
 | 範例 |
 | --- |
-| [demo-repository](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/build-iso/demo-os/demo-repository) |
+| [demo-repository](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/iso/build-iso/demo-os/demo-repository) |
 
 
 ## Arch Wiki

@@ -122,7 +122,7 @@ Name            : demo-hello
 Version         : 0.1-1
 Description     : Demo Hello Packaging
 Architecture    : any
-URL             : https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/build-iso/demo-os/demo-packaging/demo-hello
+URL             : https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/iso/build-iso/demo-os/demo-packaging/demo-hello
 Licenses        : MIT
 Groups          : None
 Provides        : demo-hello

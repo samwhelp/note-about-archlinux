@@ -21,7 +21,7 @@ grand_parent: ISO
 
 | 範例 |
 | --- |
-| [demo-use-custom-local-repository](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/build-iso/demo-os/demo-iso-profile/demo-use-custom-local-repository) |
+| [demo-use-custom-local-repository](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/iso/build-iso/demo-os/demo-iso-profile/demo-use-custom-local-repository) |
 
 
 ## Arch Wiki
