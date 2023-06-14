@@ -10,7 +10,9 @@ grand_parent: ISO
 # Boot ISO By QEMU
 
 
-* Arch Wiki / [QEMU](https://wiki.archlinux.org/title/QEMU)
+## Arch Wiki
+
+* [QEMU](https://wiki.archlinux.org/title/QEMU)
 
 
 ## See Also

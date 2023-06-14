@@ -9,6 +9,11 @@ grand_parent: ISO
 
 # Boot ISO By USB
 
+## Arch Wiki
+
+* [USB flash installation medium](https://wiki.archlinux.org/title/USB_flash_installation_medium)
+
+
 ## 操作步驟
 
 先在「Arch Linux / [Download](https://archlinux.org/download/)」，
@@ -28,7 +33,13 @@ lsblk
 接著執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./archlinux-2022.04.05-x86_64.iso of=/dev/sdb bs=4M status=progress && sync
+sudo dd if=./archlinux-2023.06.01-x86_64.iso of=/dev/sdc bs=4M status=progress && sync
+```
+
+或是執行下面指令，就會寫入「USB隨身碟」。
+
+``` sh
+sudo dd if=./archlinux-2023.06.01-x86_64.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
 ```
 
 接著重新開機，在「BIOS」選擇使用「該USB隨身碟」開機。
