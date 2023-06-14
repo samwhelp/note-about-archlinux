@@ -41,7 +41,7 @@ sudo curl -fLo /opt/iso/archlinux/latest/archlinux-x86_64.iso --create-dirs \
 ## GRUB Menu Entry / Boot ISO 樣板 / Arch Linux
 
 ``` sh
-menuentry "Archlinux ISO Latest" --class Arch {
+menuentry "Archlinux ISO / Latest" --class Arch {
 	set iso_file="/opt/iso/archlinux/latest/archlinux-x86_64.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
