@@ -16,6 +16,13 @@ grand_parent: ISO
 
 將「ISO檔案」放到「/opt/iso/archlinux/latest/archlinux-x86_64.iso」這個路徑。
 
+舉例執行下面指令
+
+``` sh
+curl -fLo /opt/iso/archlinux/latest/archlinux-x86_64.iso --create-dirs \
+	https://mirror.archlinux.tw/ArchLinux/iso/latest/archlinux-x86_64.iso
+```
+
 
 ## 設定範例
 
