@@ -20,7 +20,7 @@ parent: 安裝
 
 ## 所需「Package」
 
-在「隨身碟1 (/dev/sdb)」需要有安裝以下「Package」
+在「隨身碟1 (/dev/sdb)」需要安裝以下的「Package」
 
 * [arch-install-scripts](https://archlinux.org/packages/extra/any/arch-install-scripts/)
 * [parted](https://archlinux.org/packages/extra/x86_64/parted/)
