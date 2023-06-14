@@ -10,6 +10,11 @@ grand_parent: ISO
 # Boot ISO By GRUB
 
 
+## 範例專案
+
+* [boot-iso-by-grub](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/iso/boot-iso/boot-iso-by-grub/demo-basic)
+
+
 ## 下載 ISO
 
 先參考「[Download ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Archlinux 官方提供最新的ISO檔案」。
@@ -28,14 +33,12 @@ sudo curl -fLo /opt/iso/archlinux/latest/archlinux-x86_64.iso --create-dirs \
 
 > 接著採用下面其中一種方式來設定。
 
-* [/etc/grub.d/40_custom](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_40_custom/ArchLinux/latest/40_custom)
-* [/boot/grub/custom.cfg](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_41_custom/ArchLinux/latest/custom.cfg)
-
-
 | GRUB Boot ISO 範例 | 設定檔路徑 | 是否需要執行 update-grub |
 | --- | --- | --- |
-| demo_40_custom / [latest](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_40_custom/ArchLinux/latest/) | [/etc/grub.d/40_custom](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_40_custom/ArchLinux/latest/40_custom) | 修改後，需要執行 `sudo update-grub` |
-| demo_41_custom / [latest](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_41_custom/ArchLinux/latest/) | [/boot/grub/custom.cfg](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_41_custom/ArchLinux/latest/custom.cfg) | 修改後，**不需要**執行 `sudo update-grub` |
+| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/iso/boot-iso/boot-iso-by-grub/demo-basic/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo update-grub` |
+| demo_41_custom | [/boot/grub/custom.cfg](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/iso/boot-iso/boot-iso-by-grub/demo-basic/asset/overlay/boot/grub/custom.cfg) | 修改後，**不需要**執行 `sudo update-grub` |
+
+> 關於「`sudo update-grub`」指的是「`sudo grub-mkconfig -o /boot/grub/grub.cfg`」
 
 
 ## GRUB Menu Entry / Boot ISO 樣板 / Arch Linux
