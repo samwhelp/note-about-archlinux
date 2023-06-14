@@ -9,7 +9,21 @@ grand_parent: ISO
 
 # Boot ISO By GRUB
 
-## 範例
+
+## 下載 ISO
+
+先參考「[Download ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Archlinux 官方提供最新的ISO檔案」。
+
+將「ISO檔案」放到「/opt/iso/archlinux/latest/archlinux-x86_64.iso」這個路徑。
+
+
+## 設定範例
+
+> 接著採用下面其中一種方式來設定。
+
+* [/etc/grub.d/40_custom](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_40_custom/ArchLinux/latest/40_custom)
+* [/boot/grub/custom.cfg](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_41_custom/ArchLinux/latest/custom.cfg)
+
 
 | GRUB Boot ISO 範例 | 設定檔路徑 | 是否需要執行 update-grub |
 | --- | --- | --- |
