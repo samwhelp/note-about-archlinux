@@ -19,7 +19,7 @@ grand_parent: ISO
 舉例執行下面指令
 
 ``` sh
-curl -fLo /opt/iso/archlinux/latest/archlinux-x86_64.iso --create-dirs \
+sudo curl -fLo /opt/iso/archlinux/latest/archlinux-x86_64.iso --create-dirs \
 	https://mirror.archlinux.tw/ArchLinux/iso/latest/archlinux-x86_64.iso
 ```
 
