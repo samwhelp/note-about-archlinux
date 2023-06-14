@@ -12,7 +12,7 @@ has_children: true
 
 | 範例 |
 | --- |
-| [Demo Install For Bios Mininal](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-install-for-bios-mininal.html) |
+| [Demo Archlinux Manual Install For Bios / Start](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-manual-install-for-bios-start.html) |
 
 
 

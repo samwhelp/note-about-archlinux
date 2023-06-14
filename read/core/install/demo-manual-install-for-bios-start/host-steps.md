@@ -2,7 +2,7 @@
 title: Host Steps
 nav_order: 1010
 has_children: false
-parent: Demo Install For Bios Mininal
+parent: Demo Archlinux Manual Install For Bios / Start
 grand_parent: 安裝
 ---
 
@@ -137,4 +137,4 @@ sudo sh -c "genfstab -U /mnt >> /mnt/etc/fstab"
 sudo arch-chroot /mnt
 ```
 
-> 接下來進到「chroot」的環境後的「[操作步驟](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-install-for-bios-mininal/chroot-steps.html)」。
+> 接下來進到「chroot」的環境後的「[操作步驟](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-manual-install-for-bios-start/chroot-steps.html)」。

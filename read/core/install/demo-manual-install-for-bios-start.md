@@ -1,12 +1,12 @@
 ---
-title: Demo Install For Bios Mininal
+title: Demo Archlinux Manual Install For Bios / Start
 nav_order: 1010
 has_children: true
 parent: 安裝
 ---
 
 
-# Demo Install For Bios Mininal
+# Demo Archlinux Manual Install For Bios / Start
 
 
 ## 前提
@@ -46,15 +46,15 @@ sudo pacman -Sy --needed arch-install-scripts parted
 
 ## 範例專案
 
-* [demo-install-for-bios-mininal](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/arch-install/demo-install-for-bios-mininal)
+* [demo-manual-install-for-bios-start](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/arch-install/demo-manual-install-for-bios-start)
 
 
 ## 操作步驟
 
 | 中文說明 | 英文說明
 | --- | --- |
-| [Host Steps](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-install-for-bios-mininal/host-steps.html) | [Host Steps](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/arch-install/demo-install-for-bios-mininal/host-steps/README.steps.md) |
-| [Chroot Steps](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-install-for-bios-mininal/chroot-steps.html) | [Chroot Steps](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/arch-install/demo-install-for-bios-mininal/chroot-steps/README.steps.md) |
+| [Host Steps](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-manual-install-for-bios-start/host-steps.html) | [Host Steps](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/arch-install/demo-manual-install-for-bios-start/host-steps/README.steps.md) |
+| [Chroot Steps](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-manual-install-for-bios-start/chroot-steps.html) | [Chroot Steps](https://github.com/samwhelp/note-about-archlinux/blob/gh-pages/_demo/arch-install/demo-manual-install-for-bios-start/chroot-steps/README.steps.md) |
 
 
 ## Arch Wiki

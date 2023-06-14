@@ -2,7 +2,7 @@
 title: Chroot Steps
 nav_order: 1020
 has_children: false
-parent: Demo Install For Bios Mininal
+parent: Demo Archlinux Manual Install For Bios / Start
 grand_parent: 安裝
 ---
 
