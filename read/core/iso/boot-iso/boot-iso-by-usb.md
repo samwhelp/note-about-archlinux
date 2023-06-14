@@ -22,13 +22,13 @@ grand_parent: ISO
 
 假設下載「[archlinux-2022.04.05-x86_64.iso](https://mirror.archlinux.tw/ArchLinux/iso/2022.04.05/archlinux-2022.04.05-x86_64.iso)」
 
-先執行下面指令，找到「USB隨身碟」的「Device代號」
+先執行下面指令，找到「目標USB隨身碟」的「Device代號」
 
 ``` sh
 lsblk
 ```
 
-假設是「/dev/sdb」
+> 假設找到的「目標USB隨身碟」是「/dev/sdc」。
 
 接著執行下面指令，就會寫入「USB隨身碟」。
 
