@@ -20,8 +20,8 @@ grand_parent: ISO
 ## GRUB Menu Entry / Boot ISO 樣板 / Arch Linux
 
 ``` sh
-menuentry "Arch 2022.04.05 ISO" --class Arch {
-	set iso_file="/opt/iso/arch/latest/archlinux-2022.04.05-x86_64.iso"
+menuentry "Archlinux ISO Latest" --class Arch {
+	set iso_file="/opt/iso/archlinux/latest/archlinux-x86_64.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
 	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
