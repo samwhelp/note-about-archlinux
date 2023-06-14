@@ -16,11 +16,21 @@ grand_parent: ISO
 
 ## 操作步驟
 
-先在「Arch Linux / [Download](https://archlinux.org/download/)」，
 
-找到「[最新的ISO檔案下載網址](https://mirror.archlinux.tw/ArchLinux/iso/latest/)」，
+### 下載 ISO
 
-假設下載「[archlinux-2022.04.05-x86_64.iso](https://mirror.archlinux.tw/ArchLinux/iso/2022.04.05/archlinux-2022.04.05-x86_64.iso)」
+先參考「[Download ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Archlinux 官方提供最新的ISO檔案」。
+
+舉例執行下面指令
+
+``` sh
+wget -c https://mirror.archlinux.tw/ArchLinux/iso/latest/archlinux-x86_64.iso
+```
+
+就會下載一個檔案「archlinux-x86_64.iso」。
+
+
+### 尋找 Device 代號
 
 先執行下面指令，找到「目標USB隨身碟」的「Device代號」
 
@@ -30,16 +40,20 @@ lsblk
 
 > 假設找到的「目標USB隨身碟」是「/dev/sdc」。
 
+
+### 寫入隨身碟
+
+
 接著執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./archlinux-2023.06.01-x86_64.iso of=/dev/sdc bs=4M status=progress && sync
+sudo dd if=./archlinux-x86_64.iso of=/dev/sdc bs=4M status=progress && sync
 ```
 
 或是執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./archlinux-2023.06.01-x86_64.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
+sudo dd if=./archlinux-x86_64.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
 ```
 
 接著重新開機，在「BIOS」選擇使用「該USB隨身碟」開機。

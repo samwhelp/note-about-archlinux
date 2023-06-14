@@ -10,9 +10,17 @@ grand_parent: ISO
 # Boot ISO By run_archiso (QEMU)
 
 
-## 測試檔案
+### 下載 ISO
 
-> 可以先[下載官方提供的ISO檔案](https://samwhelp.github.io/note-about-archlinux/read/core/iso/download-iso.html)
+先參考「[Download ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Archlinux 官方提供最新的ISO檔案」。
+
+舉例執行下面指令
+
+``` sh
+wget -c https://mirror.archlinux.tw/ArchLinux/iso/latest/archlinux-x86_64.iso
+```
+
+就會下載一個檔案「archlinux-x86_64.iso」。
 
 
 ## 測試操作步驟
@@ -54,13 +62,13 @@ Example:
 執行
 
 ``` sh
-run_archiso -i archlinux-2023.06.01-x86_64.iso
+run_archiso -i archlinux-x86_64.iso
 ```
 
 或是執行
 
 ``` sh
-run_archiso -b -i archlinux-2023.06.01-x86_64.iso
+run_archiso -b -i archlinux-x86_64.iso
 ```
 
 
@@ -71,7 +79,7 @@ run_archiso -b -i archlinux-2023.06.01-x86_64.iso
 執行
 
 ``` sh
-run_archiso -u -i archlinux-2023.06.01-x86_64.iso
+run_archiso -u -i archlinux-x86_64.iso
 ```
 
 
