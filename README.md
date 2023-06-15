@@ -7,11 +7,18 @@
 ## 主題
 
 * [入門](#入門)
+* [安裝](#安裝)
 * [相關筆記](#相關筆記)
 
 
-## 入門
+## 安裝
 
+| 手動安裝範例 |
+| --- |
+| [Demo Archlinux Manual Install For Bios / Start](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-manual-install-for-bios-start.html)
+
+
+## 入門
 
 ### Download ISO
 
