@@ -23,6 +23,13 @@ Cannot mix incompatible Qt library (5.15.5) with this library (5.15.6)
 Aborted (core dumped)
 ```
 
+或是在「系統更新」時，出現如下的資訊
+
+```
+(4/6) Qt5 Upgrade Warning
+[WARNING] qt5-base was updated, qt5 applications will break until qt5-styleplugins is rebuilt.
+```
+
 ## 解法
 
 先移除「qt5-styleplugins」
