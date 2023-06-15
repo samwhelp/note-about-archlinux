@@ -9,6 +9,9 @@ parent: 安裝
 # Demo Archlinux Manual Install For Bios / Start
 
 
+## 手動安裝 Arch Linux 範例 / BIOS / 最小安裝
+
+
 ## 前提
 
 此範例有兩個「USB隨身碟」，
