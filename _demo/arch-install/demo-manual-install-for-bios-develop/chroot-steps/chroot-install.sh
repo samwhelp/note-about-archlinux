@@ -26,3 +26,10 @@ passwd
 
 pacman -S vi vim neovim micro nano
 
+
+##
+## install networkmanager
+##
+
+#pacman -S networkmanager nm-connection-editor network-manager-applet
+#pacman -S networkmanager
