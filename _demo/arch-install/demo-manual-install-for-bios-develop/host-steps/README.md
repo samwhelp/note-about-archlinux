@@ -28,6 +28,11 @@ THE_DEFAULT_RUN=make-profile ./build.sh
 ```
 
 
+``` sh
+sudo THE_DEFAULT_RUN=make-profile ./mkarchsys.sh
+```
+
+
 ## TODO
 
 * mkarchsys

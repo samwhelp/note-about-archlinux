@@ -138,7 +138,7 @@ sys_default_distro () {
 }
 
 
-THE_DEFAULT_RUN="${THE_DEFAULT_RUN:=make-iso}"
+THE_DEFAULT_RUN="${THE_DEFAULT_RUN:=make-sys}"
 
 sys_default_run () {
 	echo "${THE_DEFAULT_RUN}"
@@ -315,7 +315,7 @@ sys_package_required () {
 ### Head: Model / Build SYS
 ##
 
-mod_sys_make_start_create_system () {
+mod_system_create () {
 
 	util_error_echo
 	util_error_echo "##"
@@ -326,8 +326,10 @@ mod_sys_make_start_create_system () {
 	#sleep 5
 	#return 0
 
-	#util_error_echo "mkarchiso -w ${THE_PLAN_WORK_DIR_PATH} -o ${THE_PLAN_OUT_DIR_PATH} -v ${THE_PLAN_PROFILE_DIR_PATH}"
-	#mkarchiso -w "${THE_PLAN_WORK_DIR_PATH}" -o "${THE_PLAN_OUT_DIR_PATH}" -v "${THE_PLAN_PROFILE_DIR_PATH}"
+
+	local delegate="${THE_PLAN_DIR_PATH}/mkarchsys.sh"
+	util_error_echo "sudo ${delegate}"
+	sudo "${delegate}"
 
 
 	util_error_echo
@@ -354,7 +356,7 @@ mod_sys_make_start () {
 		return
 	fi
 
-	mod_sys_make_start_create_system
+	mod_system_create
 
 }
 
