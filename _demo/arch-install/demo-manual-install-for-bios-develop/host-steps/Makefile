@@ -30,7 +30,7 @@ help:
 	@echo
 	@echo '	$$ make prototype'
 	@echo
-	@echo '	$$ make system'
+	@echo '	$$ make build'
 	@echo
 	@echo '	$$ make fstab'
 	@echo
@@ -64,9 +64,9 @@ prototype:
 .PHONY: prototype
 
 
-system:
-	@$(THE_PLAN_DIR_PATH)/system.sh
-.PHONY: system
+build:
+	@$(THE_PLAN_DIR_PATH)/build.sh
+.PHONY: build
 
 
 fstab:
@@ -86,6 +86,13 @@ chroot-install:
 umount:
 	@$(THE_PLAN_DIR_PATH)/umount.sh
 .PHONY: umount
+
+
+
+
+test-make-profile:
+	THE_DEFAULT_RUN=make-profile $(THE_PLAN_DIR_PATH)/build.sh
+.PHONY: test-make-profile
 
 
 ##

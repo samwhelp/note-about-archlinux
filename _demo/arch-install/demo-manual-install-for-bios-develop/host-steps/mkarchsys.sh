@@ -29,6 +29,25 @@ source "${THE_UTIL_FILE_PATH}"
 ################################################################################
 
 
+################################################################################
+### Head: Limit Run User
+##
+
+sys_root_user_required () {
+
+	if [[ "${EUID}" = 0 ]]; then
+		return 0
+	else
+		util_error_echo "Please Run As Root"
+		#sleep 2
+		exit 0
+	fi
+
+}
+
+##
+### Tail: Limit Run User
+################################################################################
 
 
 ################################################################################
@@ -77,6 +96,7 @@ mod_system_create () {
 ##
 
 __main__ () {
+	sys_root_user_required
 	mod_environment
 	mod_system_create
 

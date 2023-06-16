@@ -8,6 +8,26 @@
 * [Package Required](README.packages.md)
 * [Steps](README.steps.md)
 
+## Usage
+
+
+### make-sys
+
+``` sh
+./build.sh
+```
+
+``` sh
+THE_DEFAULT_RUN=make-sys ./build.sh
+```
+
+### make-profile
+
+``` sh
+THE_DEFAULT_RUN=make-profile ./build.sh
+```
+
+
 ## TODO
 
 * mkarchsys
