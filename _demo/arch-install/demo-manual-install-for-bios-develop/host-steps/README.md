@@ -46,8 +46,28 @@ Command (m for help):
 ```
 
 
+* [How to remove iso 9660 from USB?](https://superuser.com/questions/14860/how-to-remove-iso-9660-from-usb)
+
+
+### Way 001
+
 run 
 
 ``` sh
 sudo wipefs --all /dev/sdc
+```
+
+### Way 002
+
+run
+
+``` sh
+sudo mkdosfs -I /dev/sdc
+
+```
+
+### Way 003
+
+``` sh
+sudo dd if=/dev/zero of=/dev/sdc
 ```
