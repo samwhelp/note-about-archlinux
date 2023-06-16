@@ -1,16 +1,14 @@
 ---
-title: Demo Archlinux Manual Install For Bios / Start
+title: 手動安裝 Arch Linux 範例 / BIOS 開機
 nav_order: 1010
 has_children: true
 parent: 安裝
 ---
 
 
-# Demo Archlinux Manual Install For Bios / Start
+# 手動安裝 Arch Linux 範例 / BIOS 開機
 
-
-## 手動安裝 Arch Linux 範例 / BIOS / 最小安裝
-
+> Demo Archlinux Manual Install For BIOS / Start
 
 ## 前提
 

@@ -2,7 +2,7 @@
 title: Host Steps
 nav_order: 1010
 has_children: false
-parent: Demo Archlinux Manual Install For Bios / Start
+parent: 手動安裝 Arch Linux 範例 / BIOS 開機
 grand_parent: 安裝
 ---
 
