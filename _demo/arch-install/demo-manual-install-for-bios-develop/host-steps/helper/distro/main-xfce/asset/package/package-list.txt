@@ -1,0 +1,715 @@
+
+
+################################################################################
+### Head: Nearbyos / Note
+##
+
+##
+## * https://samwhelp.github.io/nearbyos/
+## * https://github.com/samwhelp/nearbyos/tree/main/project/nearbyos-iso-build-system
+## * https://github.com/samwhelp/nearbyos/tree/main/project/nearbyos-iso-build-system/nearbyos-iso-profile
+## * https://github.com/samwhelp/nearbyos/tree/main/project/nearbyos-iso-build-system/nearbyos-packaging
+## * https://github.com/samwhelp/nearbyos/tree/main/project/nearbyos-iso-build-system/nearbyos-repository
+##
+
+##
+### Tail: Nearbyos / Note
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Xorg
+##
+
+mesa
+xorg
+xorg-server
+xorg-apps
+xorg-drivers
+xorg-xkill
+xorg-xinit
+xterm
+
+##
+### Tail: Nearbyos / Xorg
+################################################################################
+
+
+
+################################################################################
+### Head: Nearbyos / Display Manager / lightdm
+##
+
+accountsservice
+
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+
+
+##
+## https://wiki.archlinux.org/title/LightDM
+## https://wiki.archlinux.org/title/ConsoleKit
+##
+
+##
+### Tail: Nearbyos / Display Manager / lightdm
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Polkit
+##
+
+polkit
+polkit-gnome
+
+
+##
+## https://wiki.archlinux.org/title/Polkit
+##
+
+##
+### Tail: Nearbyos / Polkit
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Networking
+##
+
+
+##
+## https://wiki.archlinux.org/title/NetworkManager
+##
+
+networkmanager
+nm-connection-editor
+network-manager-applet
+
+##
+### Tail: Nearbyos / Networking
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Font
+##
+
+ttf-dejavu
+ttf-liberation
+ttf-bitstream-vera
+ttf-ubuntu-font-family
+cantarell-fonts
+ttf-croscore
+ttf-carlito
+ttf-caladea
+
+opendesktop-fonts
+ttf-opensans
+freetype2
+
+noto-fonts
+
+#noto-fonts-emoji
+#noto-fonts-extra
+
+##
+### Tail: Nearbyos / Font
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Font / CJK
+##
+
+noto-fonts-cjk
+
+##
+### Tail: Nearbyos / Font / CJK
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Theme / gtk-theme
+##
+
+adapta-gtk-theme
+arc-gtk-theme
+
+## for gtk2 themes
+gtk-engine-murrine
+
+##
+### Tail: Nearbyos / Theme / gtk-theme
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Theme / icon-theme
+##
+
+arc-icon-theme
+papirus-icon-theme
+
+##
+### Tail: Nearbyos / Theme / icon-theme
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Theme / cursor-theme
+##
+
+xcursor-breeze
+
+##
+### Tail: Nearbyos / Theme / cursor-theme
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Input Method
+##
+
+fcitx5
+fcitx5-chewing
+fcitx5-gtk
+fcitx5-qt
+fcitx5-configtool
+
+#fcitx5-chinese-addons
+#fcitx5-m17n
+#fcitx5-material-color
+#fcitx5-lua
+#fcitx5-anthy
+
+##
+### Tail: Nearbyos / Main / Input Method
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Style
+##
+
+qt5-styleplugins
+
+##
+### Tail: Nearbyos / Main / Style
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Wallpaper
+##
+
+
+
+##
+### Tail: Nearbyos / Main / Wallpaper
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Shell
+##
+
+bash
+bash-completion
+
+zsh
+
+##
+### Tail: Nearbyos / Main / Shell
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Launcher
+##
+
+rofi
+
+##
+### Tail: Nearbyos / Main / Launcher
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Dock
+##
+
+plank
+
+##
+### Tail: Nearbyos / Main / Dock
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Tool / AUR Helper
+##
+
+yay-bin
+
+##
+### Tail: Nearbyos / Main / Tool / AUR Helper
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Media
+##
+
+mate-media
+
+##
+### Tail: Nearbyos / Main / Media
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Tool / File Manager
+##
+
+thunar
+
+pcmanfm
+
+pcmanfm-qt
+
+##
+### Tail: Nearbyos / Main / Tool / File Manager
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Tool / Text Editor
+##
+
+vim
+
+neovim
+
+micro
+
+mousepad
+
+sublime-text-4
+
+##
+### Tail: Nearbyos / Main / Tool / Text Editor
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Tool / Web Browser
+##
+
+firefox
+
+##
+### Tail: Nearbyos / Main / Tool / Web Browser
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Tool / Terminal
+##
+
+sakura
+
+xfce4-terminal
+
+lxterminal
+
+#mate-terminal
+
+#gnome-console
+#gnome-terminal
+
+##
+### Tail: Nearbyos / Main / Tool / Terminal
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Tool / Image Viewer
+##
+
+viewnior
+
+##
+### Tail: Nearbyos / Main / Tool / Image Viewer
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Tool / Video Player
+##
+
+mpv
+
+smplayer
+
+vlc
+
+##
+### Tail: Nearbyos / Main / Tool / Video Player
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Main / Tool / Audio Player
+##
+
+audacious
+
+##
+### Tail: Nearbyos / Main / Tool / Audio Player
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Eesktop Environment / Xfce
+##
+
+xfce4
+xfce4-goodies
+
+plank
+
+xarchiver
+xfburn
+
+##
+### Tail: Nearbyos / Eesktop Environment / Xfce
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Base
+##
+
+nearbyos-mirrorlist
+nearbyos-hello
+
+##
+### Tail: Nearbyos / Modeling / Base
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Xfce
+##
+
+nearbyos-modeling-xfce-config-main
+nearbyos-autostart-plank-on-xfce
+
+##
+### Tail: Nearbyos / Modeling / Xfce
+################################################################################
+
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Display Manager / lightdm
+##
+
+nearbyos-modeling-lightdm
+nearbyos-modeling-lightdm-gtk-greeter
+
+
+##
+### Tail: Nearbyos / Modeling / Display Manager / lightdm
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Xdg
+##
+
+nearbyos-modeling-xdg-mime-applications
+nearbyos-modeling-xdg-user-dir-templates
+
+
+##
+### Tail: Nearbyos / Modeling / Xdg
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Font
+##
+
+nearbyos-modeling-font-match-order
+
+
+##
+### Tail: Nearbyos / Modeling / Font
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Dconf
+##
+
+nearbyos-modeling-dconf-default-user-db-initialization
+
+##
+### Tail: Nearbyos / Modeling / Dconf
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Input Method
+##
+
+nearbyos-modeling-fcitx5-chewing
+
+
+##
+### Tail: Nearbyos / Modeling / Input Method
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Style
+##
+
+nearbyos-modeling-qt-style-follow-gtk
+
+nearbyos-modeling-cursor-default-breeze
+
+nearbyos-modeling-gtkrc
+nearbyos-modeling-gtkrc-gruvbox-dark
+
+nearbyos-modeling-qt5ctrc
+nearbyos-modeling-qt5ctrc-gruvbox-dark
+
+##
+### Tail: Nearbyos / Modeling / Style
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Wallpaper
+##
+
+nearbyos-modeling-wallpaper-collection
+nearbyos-modeling-wallpaper-default
+
+##
+### Tail: Nearbyos / Modeling / Wallpaper
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / Shell
+##
+
+nearbyos-modeling-fzf
+
+nearbyos-modeling-bash-it
+
+nearbyos-modeling-oh-my-zsh
+
+
+##
+### Tail: Nearbyos / Modeling / Tool / Shell
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / Launcher
+##
+
+
+nearbyos-modeling-rofi
+
+
+##
+### Tail: Nearbyos / Modeling / Tool / Launcher
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Dock
+##
+
+nearbyos-modeling-plank
+
+
+##
+### Tail: Nearbyos / Modeling / Dock
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / AUR Helper
+##
+
+
+
+##
+### Tail: Nearbyos / Modeling / Tool / AUR Helper
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Theme / Gruvbox
+##
+
+nearbyos-appearance-gtk-theme-gruvbox
+nearbyos-appearance-gtk-theme-gruvbox-dark
+nearbyos-appearance-icon-theme-gruvbox-dark
+
+##
+### Tail: Nearbyos / Modeling / Theme / Gruvbox
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Theme / Dracula
+##
+
+nearbyos-appearance-gtk-theme-dracula
+nearbyos-appearance-icon-theme-dracula
+
+##
+### Tail: Nearbyos / Modeling / Theme / Dracula
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Theme / Numix
+##
+
+nearbyos-appearance-gtk-theme-numix-blue
+nearbyos-appearance-icon-theme-numix
+
+##
+### Tail: Nearbyos / Modeling / Theme / Numix
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Theme / Rgaps
+##
+
+nearbyos-appearance-xfwm-theme-rgaps-blend-no-buttons
+
+##
+### Tail: Nearbyos / Modeling / Theme / Rgaps
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / File Manager
+##
+
+nearbyos-modeling-thunar
+
+nearbyos-modeling-pcmanfm
+
+nearbyos-modeling-pcmanfm-qt
+
+#nearbyos-modeling-nautilus
+
+#nearbyos-modeling-caja
+
+##
+### Tail: Nearbyos / Modeling / Tool / File Manager
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / Text Editor
+##
+
+nearbyos-modeling-vi
+
+nearbyos-modeling-mousepad
+
+nearbyos-modeling-sublime-text
+
+#nearbyos-modeling-atom
+
+#nearbyos-modeling-pluma
+
+#nearbyos-modeling-xed
+
+#nearbyos-modeling-gedit
+
+##
+### Tail: Nearbyos / Modeling / Tool / Text Editor
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / Web Browser
+##
+
+
+
+##
+### Tail: Nearbyos / Modeling / Tool / Web Browser
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / Terminal
+##
+
+nearbyos-modeling-sakura
+
+nearbyos-modeling-xfce4-terminal
+
+nearbyos-modeling-lxterminal
+
+#nearbyos-modeling-mate-terminal
+
+#nearbyos-modeling-gnome-console
+#nearbyos-modeling-gnome-terminal
+
+
+
+
+
+##
+### Tail: Nearbyos / Modeling / Tool / Terminal
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / Image Viewer
+##
+
+nearbyos-modeling-viewnior
+
+##
+### Tail: Nearbyos / Modeling / Tool / Image Viewer
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / Video Player
+##
+
+nearbyos-modeling-mpv
+
+##
+### Tail: Nearbyos / Modeling / Tool / Video Player
+################################################################################
+
+
+################################################################################
+### Head: Nearbyos / Modeling / Tool / Audio Player
+##
+
+
+
+##
+### Tail: Nearbyos / Modeling / Tool / Audio Player
+################################################################################

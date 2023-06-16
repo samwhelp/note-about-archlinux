@@ -392,7 +392,7 @@ mod_sys_profile_prepare () {
 	util_error_echo
 
 	mod_sys_profile_base
-	#mod_sys_profile_overlay
+	mod_sys_profile_overlay
 
 
 }
@@ -435,7 +435,7 @@ mod_sys_profile_overlay () {
 	util_error_echo
 	util_error_echo
 	util_error_echo "##"
-	util_error_echo "## Prepare ISO Profile / Overlay"
+	util_error_echo "## Prepare System Profile / Overlay"
 	util_error_echo "##"
 	util_error_echo
 
@@ -451,7 +451,8 @@ mod_sys_profile_overlay () {
 	## ## bootloader
 	##
 
-	mod_overlay_bootloader
+	## make-sys not need this steps
+	##mod_overlay_bootloader
 
 
 	##
