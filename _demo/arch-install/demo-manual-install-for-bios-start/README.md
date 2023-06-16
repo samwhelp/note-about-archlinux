@@ -1,6 +1,8 @@
 
 
-# Steps
+# Demo Archlinux Manual Install For BIOS / Start
+
+## Steps
 
 | Sub Project | Steps |
 | --- | --- |

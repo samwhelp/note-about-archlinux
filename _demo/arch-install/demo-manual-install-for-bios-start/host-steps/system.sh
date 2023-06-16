@@ -35,6 +35,24 @@ source "${THE_UTIL_FILE_PATH}"
 ### Head: Model / system_create
 ##
 
+mod_environment () {
+
+	##
+	## * https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/archiso/mkarchiso#L8-L15
+	## * https://github.com/archlinux/archiso/blob/master/archiso/mkarchiso#L8-L15
+	##
+
+	# Control the environment
+	umask 0022
+	export LC_ALL="C.UTF-8"
+	if [[ -v LANGUAGE ]]; then
+		# LC_ALL=C.UTF-8, unlike LC_ALL=C, does not override LANGUAGE.
+		# See https://sourceware.org/bugzilla/show_bug.cgi?id=16621 and https://savannah.gnu.org/bugs/?62815
+		unset LANGUAGE
+	fi
+
+}
+
 mod_system_create () {
 
 	##
@@ -59,7 +77,7 @@ mod_system_create () {
 ##
 
 __main__ () {
-
+	mod_environment
 	mod_system_create
 
 }
