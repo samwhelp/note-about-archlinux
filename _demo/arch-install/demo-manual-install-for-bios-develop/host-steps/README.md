@@ -71,3 +71,14 @@ sudo mkdosfs -I /dev/sdc
 ``` sh
 sudo dd if=/dev/zero of=/dev/sdc
 ```
+
+``` sh
+sudo dd if=/dev/zero of=/dev/sdc bs=512 count=1
+```
+
+``` sh
+sudo dd if=/dev/zero of=/dev/sdc bs=4M status=progress && sync
+```
+
+
+
