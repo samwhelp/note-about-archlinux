@@ -35,9 +35,35 @@ source "${THE_UTIL_FILE_PATH}"
 ### Head: Model / prototype
 ##
 
+mod_prototype_prepare () {
+
+	mkdir -p ./tmp
+
+}
+
+mod_prototype_copy_archiso_profile () {
+
+	cp -rf "/usr/share/archiso/configs/releng/." "./tmp/profile"
+
+}
+
+mod_prototype_overlay_profile () {
+	cp -rf "./asset/overlay/." "./tmp/profile/airootfs"
+}
+
+mod_prototype_to_rootfs () {
+	sudo cp -rf "./tmp/profile/airootfs/." "/mnt"
+}
+
 mod_prototype () {
 
-	util_error_echo "TODO:"
+	mod_prototype_prepare
+
+	mod_prototype_copy_archiso_profile
+
+	mod_prototype_overlay_profile
+
+	mod_prototype_to_rootfs
 
 	return 0
 
