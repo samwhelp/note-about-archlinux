@@ -64,7 +64,7 @@ mkdir -p /opt/demo-os/demo-repository/x86_64
 
 ## 放置範例Package
 
-將剛剛製作的「Arch Package: [demo-hello-0.1-1-any.pkg.tar.zst](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-build-arch-package.html#%E8%A3%BD%E4%BD%9C-package)」，
+將剛剛製作的「Arch Package: [demo-hello-0.1-1-any.pkg.tar.zst](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-build-arch-package.html#%E8%A3%BD%E4%BD%9C-package)」，
 
 
 放到「/opt/demo-os/demo-repository/x86_64」這個資料夾裡面。

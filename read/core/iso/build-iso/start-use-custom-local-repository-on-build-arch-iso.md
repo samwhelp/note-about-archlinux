@@ -12,7 +12,7 @@ grand_parent: ISO
 
 ## 前提
 
-延續之前的「[入門如何製作 Arch ISO](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-build-arch-iso.html)」，
+延續之前的「[入門如何製作 Arch ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-build-arch-iso.html)」，
 
 這裡要說明在製作 Arch ISO 時，如何設定採用「Arch Custom Local Repository」。
 
@@ -39,7 +39,7 @@ grand_parent: ISO
 
 ## 編輯「profile/pacman.conf」
 
-對照「[入門如何設定採用 Arch Custom Local Repository ](https://samwhelp.github.io/note-about-archlinux/read/build-iso/start-use-custom-local-repository.html)」這篇提到的，
+對照「[入門如何設定採用 Arch Custom Local Repository ](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-use-custom-local-repository.html)」這篇提到的，
 
 設定採用「Arch Custom Local Repository」，是編輯「/etc/pacman.conf」。
 

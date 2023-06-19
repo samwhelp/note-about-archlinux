@@ -34,7 +34,7 @@ grand_parent: ISO
 
 ### 安裝 archlinux
 
-先安裝一個「Arch Linux」系統，請參考另一篇「[製作 Archiso 的前置作業 ](https://samwhelp.github.io/note-about-archlinux/read/build-iso/prepare.html)」的說明。
+先安裝一個「Arch Linux」系統，請參考另一篇「[製作 Archiso 的前置作業 ](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/prepare.html)」的說明。
 
 > 或是也可以透過「Docker」的環境來製作，
 
