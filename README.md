@@ -25,7 +25,7 @@
 
 | archinstall profile |
 | --- |
-| [profile](https://github.com/samwhelp/archlinux-adjustment/tree/main/sample/archinstall/profile/locale) |
+| [demo profile](https://github.com/samwhelp/archlinux-adjustment/tree/main/sample/archinstall/profile/locale) |
 
 
 
