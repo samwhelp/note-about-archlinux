@@ -23,7 +23,7 @@
 | [手動安裝 Arch Linux 範例 / BIOS 開機](https://samwhelp.github.io/note-about-archlinux/read/core/install/demo-manual-install-for-bios-start.html)
 
 
-| archinstall profile |
+| [archinstall](https://github.com/archlinux/archinstall) profile |
 | --- |
 | [demo profile](https://github.com/samwhelp/archlinux-adjustment/tree/main/sample/archinstall/profile/locale) |
 
