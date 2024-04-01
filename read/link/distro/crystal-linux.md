@@ -2,7 +2,8 @@
 title: Crystal Linux
 nav_order: 9023
 has_children: false
-parent: 連結
+parent: Distro
+grand_parent: 連結
 ---
 
 

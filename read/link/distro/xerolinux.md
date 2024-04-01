@@ -2,7 +2,8 @@
 title: XeroLinux
 nav_order: 9022
 has_children: false
-parent: 連結
+parent: Distro
+grand_parent: 連結
 ---
 
 
