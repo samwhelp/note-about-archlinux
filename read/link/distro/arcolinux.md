@@ -18,7 +18,8 @@ grand_parent: 連結
 | --- |
 | YouTube / [Erik Dubois](https://www.youtube.com/@ErikDubois) |
 | GitHub / [erikdubois](https://github.com/erikdubois) |
-| SourceForge / profile / [arcolinux](https://sourceforge.net/u/arcolinux/profile/) |
+| SourceForge / Profile / [Arcolinux](https://sourceforge.net/u/arcolinux/profile/) |
+| SourceForge / Profile / [Erik Dubois](https://sourceforge.net/u/nightraven696/profile/) |
 
 
 ### 主站
@@ -40,9 +41,19 @@ grand_parent: 連結
 | 主站 | GitHub | SourceForge |
 | --- | --- | --- |
 | [arcolinuxiso.com](https://www.arcolinuxiso.com/) | [Github](https://github.com/arcolinuxiso) | [SourceForge](https://sourceforge.net/projects/carli/) |
-| [Carli](https://www.arcolinuxiso.com/) | [Github](https://github.com/arcolinuxiso) | [SourceForge](https://sourceforge.net/projects/carli/) |
-| [Alci](https://alci.online/) | [Github](https://github.com/arch-linux-calamares-installer) | [SourceForge](https://sourceforge.net/p/alci/) |
-| [Ariser](https://ariser.eu/) | [Github](https://github.com/ariser-installer) | [SourceForge](https://sourceforge.net/p/archlinux-alis/) |
+| [Carli](https://www.arcolinuxiso.com/) | [Github](https://github.com/arcolinuxiso) | [SourceForge](https://sourceforge.net/projects/carli/files/) |
+| [Alci](https://alci.online/) | [Github](https://github.com/arch-linux-calamares-installer) | [SourceForge](https://sourceforge.net/projects/alci/files/) |
+| [Ariser](https://ariser.eu/) | [Github](https://github.com/ariser-installer) | [SourceForge](https://sourceforge.net/projects/archlinux-alis/files/) |
+
+
+| 主站 | GitHub | SourceForge |
+| --- | --- | --- |
+| arcolinuxb.com / [BYOI = Build Your Own Iso](https://arcolinuxb.com/byoi/) | [GitHub](https://github.com/arconetpro) | [SourceForge](https://sourceforge.net/projects/arconetpro/files/) |
+
+
+| YouTube |
+| --- |
+| [ArcoLinux : 4015 NEWS - FUTURE PLANS - arconet - arcopro - arcoplasma](https://www.youtube.com/watch?v=DrcCgoRJdEo) |
 
 
 
