@@ -11,7 +11,8 @@
 
 ## 主題
 
-* [Archlinux Adjustment](#archlinux-adjustment)
+* [Archlinux Respin](#archlinux-respin)
+* [微調腳本](#微調腳本)
 * [入門](#入門)
 * [安裝](#安裝)
 * [相關筆記](#相關筆記)
@@ -19,13 +20,23 @@
 
 
 
-## Archlinux Adjustment
+## Archlinux Respin
 
 | Link | GitHub |
 | ---- | ------ |
 | [Archlinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
 | [Archlinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxqt) |
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| ------- |
+| [Arch Linux Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/linuxmint-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
