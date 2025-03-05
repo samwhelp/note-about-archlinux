@@ -111,13 +111,25 @@
 
 ## 相關筆記
 
-## samwhelp
+| Link | GitHub |
+| ---- | ------ |
+| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [EndeavourOS 探索筆記](https://samwhelp.github.io/note-about-endeavouros/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros) |
+| [CachyOS 探索筆記](https://samwhelp.github.io/note-about-cachyos/) | [GitHub](https://github.com/samwhelp/note-about-cachyos) |
+| [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
+| [NearbyOS 探索筆記](https://samwhelp.github.io/note-about-nearbyos/) | [GitHub](https://github.com/samwhelp/note-about-nearbyos) |
+| [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
-* [個人筆記](https://samwhelp.github.io/book/)
-* [System Modeling](https://samwhelp.github.io/system-modeling/) / ([GitHub](https://github.com/samwhelp/system-modeling))
-* [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) / ([GitHub](https://github.com/samwhelp/note-about-ezarcher))
-* [Nearbyos](https://samwhelp.github.io/nearbyos/) / ([GitHub](https://github.com/samwhelp/nearbyos))
-* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
-* [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
+
 * [Archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package)
 * [Asamos 開發筆記](https://samwhelp.github.io/note-about-asamos/) / [asamarch-documentation](https://samwhelp.github.io/asamarch-documentation/)
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
