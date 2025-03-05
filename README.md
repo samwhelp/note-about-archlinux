@@ -114,7 +114,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
-| [ArcoLinux 探索筆記](https://samwhelp.github.io/note-about-arcolinux/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux) |
+| [Arcolinux 探索筆記](https://samwhelp.github.io/note-about-arcolinux/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux) |
 | [EndeavourOS 探索筆記](https://samwhelp.github.io/note-about-endeavouros/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros) |
 | [CachyOS 探索筆記](https://samwhelp.github.io/note-about-cachyos/) | [GitHub](https://github.com/samwhelp/note-about-cachyos) |
 | [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
