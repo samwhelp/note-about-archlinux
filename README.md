@@ -15,6 +15,7 @@
 * [微調腳本](#微調腳本)
 * [入門](#入門)
 * [安裝](#安裝)
+* [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
@@ -87,6 +88,15 @@
 | [入門如何製作 Arch Repository](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-build-arch-repository.html) |
 | [入門如何設定採用 Arch Custom Local Repository](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-use-custom-local-repository.html) |
 | [在製作 Arch ISO 時，如何設定採用 Arch Custom Local Repository ](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-use-custom-local-repository-on-build-arch-iso.html) |
+
+
+
+
+## 字型
+
+| 字型設定 | 微調腳本 |
+| -------- | -------- |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-archlinux/read/subject/font/config/font-match-order.html) | [微調腳本](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/font-config/font-match-order) |
 
 
 
