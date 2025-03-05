@@ -15,6 +15,8 @@
 * [微調腳本](#微調腳本)
 * [入門](#入門)
 * [安裝](#安裝)
+* [輸入法](#輸入法)
+* [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
 
@@ -85,6 +87,25 @@
 | [入門如何製作 Arch Repository](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-build-arch-repository.html) |
 | [入門如何設定採用 Arch Custom Local Repository](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-use-custom-local-repository.html) |
 | [在製作 Arch ISO 時，如何設定採用 Arch Custom Local Repository ](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-use-custom-local-repository-on-build-arch-iso.html) |
+
+
+
+
+## 輸入法
+
+| 中文輸入法 | 微調腳本 |
+| ---------- | -------- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-archlinux/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+
+
+
+
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-archlinux/read/subject/grub.html) |
+
 
 
 
