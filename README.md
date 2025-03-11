@@ -127,6 +127,7 @@
 | [Arcolinux 探索筆記](https://samwhelp.github.io/note-about-arcolinux/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux) |
 | [EndeavourOS 探索筆記](https://samwhelp.github.io/note-about-endeavouros/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros) |
 | [CachyOS 探索筆記](https://samwhelp.github.io/note-about-cachyos/) | [GitHub](https://github.com/samwhelp/note-about-cachyos) |
+| [GarudaLinux 探索筆記](https://samwhelp.github.io/note-about-garuda/) | [GitHub](https://github.com/samwhelp/note-about-garuda) |
 | [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
 | [NearbyOS 探索筆記](https://samwhelp.github.io/note-about-nearbyos/) | [GitHub](https://github.com/samwhelp/note-about-nearbyos) |
 | [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
