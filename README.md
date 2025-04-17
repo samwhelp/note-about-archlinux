@@ -29,6 +29,7 @@
 | ---- | ------ |
 | [Archlinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
 | [Archlinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxqt) |
+| [Archlinux Lxde 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxde/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxde) |
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
 
 
