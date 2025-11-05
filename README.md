@@ -26,7 +26,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Arch Linux Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main) |
+| [Archlinux Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
