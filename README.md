@@ -38,9 +38,44 @@
 | ---- | ------ |
 | [Archlinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
+| [Archlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-archlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-gnome-shell) |
+| [Archlinux Cinnamon 探索筆記](https://samwhelp.github.io/note-about-archlinux-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-cinnamon) |
+| [Archlinux Mate 探索筆記](https://samwhelp.github.io/note-about-archlinux-mate/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-mate) |
+| [Archlinux Budgie 探索筆記](https://samwhelp.github.io/note-about-archlinux-budgie/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-budgie) |
 | [Archlinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxqt) |
 | [Archlinux Lxde 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxde/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxde) |
 
+
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Archlinux Cosmic 探索筆記](https://samwhelp.github.io/note-about-archlinux-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-cosmic) |
+| [Archlinux Hyprland 探索筆記](https://samwhelp.github.io/note-about-archlinux-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-hyprland) |
+| [Archlinux Sway 探索筆記](https://samwhelp.github.io/note-about-archlinux-sway/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-sway) |
+| [Archlinux Labwc 探索筆記](https://samwhelp.github.io/note-about-archlinux-labwc/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-labwc) |
+| [Archlinux Wayfire 探索筆記](https://samwhelp.github.io/note-about-archlinux-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-wayfire) |
+| [Archlinux River 探索筆記](https://samwhelp.github.io/note-about-archlinux-river/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-river) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Archlinux Openbox 探索筆記](https://samwhelp.github.io/note-about-archlinux-openbox/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-openbox) |
+| [Archlinux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-archlinux-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-fluxbox) |
+| [Archlinux Jwm 探索筆記](https://samwhelp.github.io/note-about-archlinux-jwm/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-jwm) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Archlinux Bspwm 探索筆記](https://samwhelp.github.io/note-about-archlinux-bspwm/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-bspwm) |
+| [Archlinux I3wm 探索筆記](https://samwhelp.github.io/note-about-archlinux-i3wm/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-i3wm) |
+| [Archlinux Herbstluftwm 探索筆記](https://samwhelp.github.io/note-about-archlinux-herbstluftwm/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-herbstluftwm) |
+| [Archlinux Cwm 探索筆記](https://samwhelp.github.io/note-about-archlinux-cwm/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-cwm) |
+| [Archlinux Spectrwm 探索筆記](https://samwhelp.github.io/note-about-archlinux-spectrwm/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-spectrwm) |
 
 
 
