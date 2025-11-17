@@ -1,5 +1,5 @@
 ---
-title: Boot ISO By run_archiso (QEMU)
+title: Boot ISO Via run_archiso (QEMU)
 nav_order: 1050
 has_children: false
 parent: Boot ISO
@@ -7,7 +7,7 @@ grand_parent: ISO
 ---
 
 
-# Boot ISO By run_archiso (QEMU)
+# Boot ISO Via run_archiso (QEMU)
 
 
 ### 下載 ISO
@@ -120,4 +120,4 @@ less $(which run_archiso)
 ## See Also
 
 * 入門如何製作 Arch ISO / [測試 ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso/start-build-arch-iso.html#%E6%B8%AC%E8%A9%A6-iso)
-* [Boot ISO By QEMU](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-qemu.html)
+* [Boot ISO Via QEMU](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-via-qemu.html)

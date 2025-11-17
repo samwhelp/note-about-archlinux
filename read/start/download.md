@@ -20,6 +20,6 @@ parent: 入門
 
 | Boot ISO |
 | --- |
-| [Boot ISO By USB](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-usb.html) |
-| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
-| [Boot ISO By GRUB](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-grub.html) |
+| [Boot ISO Via USB](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-via-usb.html) |
+| [Boot ISO Via Ventoy](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-via-ventoy.html) |
+| [Boot ISO Via GRUB](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-via-grub.html) |

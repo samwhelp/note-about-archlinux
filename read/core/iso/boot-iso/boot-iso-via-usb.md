@@ -1,5 +1,5 @@
 ---
-title: Boot ISO By USB
+title: Boot ISO Via USB
 nav_order: 1020
 has_children: false
 parent: Boot ISO
@@ -7,7 +7,7 @@ grand_parent: ISO
 ---
 
 
-# Boot ISO By USB
+# Boot ISO Via USB
 
 ## Arch Wiki
 
