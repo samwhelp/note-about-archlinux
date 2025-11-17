@@ -12,7 +12,7 @@ grand_parent: ISO
 
 ## 範例專案
 
-* [boot-iso-via-grub](https://github.com/samwhelp/note-about-archlinux/tree/gh-pages/_demo/iso/boot-iso/boot-iso-via-grub/demo-basic)
+* [boot-iso-via-grub](https://github.com/samwhelp/archlinux-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-archlinux-iso)
 
 
 ## 下載 ISO
@@ -44,17 +44,28 @@ sudo curl -fLo /opt/iso/archlinux/latest/archlinux-x86_64.iso --create-dirs \
 ## GRUB Menu Entry / Boot ISO 樣板 / Arch Linux
 
 ``` sh
-menuentry "Archlinux ISO / Latest" --class Arch {
-	set iso_file="/opt/iso/archlinux/latest/archlinux-x86_64.iso"
-	search --set=iso_partition --no-floppy --file $iso_file
-	probe --set=iso_partition_uuid --fs-uuid $iso_partition
-	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
-	loopback loop ($iso_partition)$iso_file
+
+menuentry "Archlinux ISO / Latest" --class archlinux {
+
+	set iso_file="/opt/iso/archlinux/latest/archlinux.iso"
+	search --set=iso_partition --no-floppy --file ${iso_file}
+	probe --set=iso_partition_uuid --fs-uuid ${iso_partition}
+	#set img_dev="/dev/disk/by-uuid/${iso_partition_uuid}"
+	set img_dev="UUID=${iso_partition_uuid}"
+
+
+	loopback loop (${iso_partition})${iso_file}
+
+
 	set boot_option=""
 	#set boot_option="quiet splash"
-	linux (loop)/arch/boot/x86_64/vmlinuz-linux img_dev=$img_dev img_loop=$iso_file $boot_option
-	initrd (loop)/arch/boot/intel-ucode.img (loop)/arch/boot/amd-ucode.img (loop)/arch/boot/x86_64/initramfs-linux.img
+
+
+	linux (loop)/arch/boot/x86_64/vmlinuz-linux img_dev=${img_dev} img_loop=${iso_file} archisobasedir=arch ${boot_option}
+	initrd (loop)/arch/boot/x86_64/initramfs-linux.img
+
 }
+
 ```
 
 

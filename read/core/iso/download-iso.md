@@ -11,7 +11,7 @@ parent: ISO
 
 ## 下載腳本
 
-* [下載腳本](https://github.com/samwhelp/note-about-grub/blob/gh-pages/_demo/prototype/boot_iso/demo_41_custom/ArchLinux/latest/iso/download.sh)
+* [下載腳本](https://github.com/samwhelp/archlinux-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-archlinux-iso)
 
 
 ## 下載點
