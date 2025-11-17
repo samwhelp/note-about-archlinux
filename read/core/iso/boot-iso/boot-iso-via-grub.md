@@ -48,6 +48,7 @@ sudo curl -fLo /opt/iso/archlinux/latest/archlinux-x86_64.iso --create-dirs \
 menuentry "Archlinux ISO / Latest" --class archlinux {
 
 	set iso_file="/opt/iso/archlinux/latest/archlinux.iso"
+
 	search --set=iso_partition --no-floppy --file ${iso_file}
 	probe --set=iso_partition_uuid --fs-uuid ${iso_partition}
 	#set img_dev="/dev/disk/by-uuid/${iso_partition_uuid}"
