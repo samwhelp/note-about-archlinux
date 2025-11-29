@@ -7,3 +7,10 @@ parent: 如何
 
 
 # 安裝「yay」
+
+
+
+
+## Link
+
+* GitHub / [yay](https://github.com/Jguer/yay)
